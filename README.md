@@ -7,4 +7,5 @@ PCB放在附件里
 打样选择：阻焊层：红色    字符层：白色
 
 二、效果图
-https://github.com/beidouhz/photo_bad/blob/main/11232.jpg
+<img src="https://github.com/beidouhz/photo_bad/blob/main/11232.jpg"/>
+
